@@ -11,5 +11,8 @@ public class Demo {
 	public void m2() {
 		System.out.println("comit 2");
 	}
+	public void m2() {
+		System.out.println("push 2");
+	}
 
 }
